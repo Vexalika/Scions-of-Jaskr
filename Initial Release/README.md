@@ -1,1 +1,34 @@
+For documenting any changes from the last Version and any bugs in this version. 
 
+Patch Notes(Version Beta 0.5 -> Initial Release 
+
+System ----------------------------------------
+
+New status screen
+
+Chapters ----------------------------------------
+Chapetr 1
+	Changes 2 brigands near the end of map to Mercenaries
+
+Chapetr 2 
+	Dizzy now has and drops a Heavy spear
+	Adjusted enemy stats in Ch 2 
+
+Items -----------------------------------------
+
+
+Skills ----------------------------------------  
+
+
+Units ---------------------------------------    
+
+-[^]Buff - Kyrene
+Increased base stats
+Resisitance 	|[4 ->6}]
+
+-[v]Nerf - Aji 
+Decreased base stats
+Resisitance 	|[12 -> 8]
+
+
+Bugs----------------------------------------------
