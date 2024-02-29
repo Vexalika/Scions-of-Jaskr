@@ -1,0 +1,212 @@
+Art stuff (Tilesets,Mug bases, battle anims, class cards, map sprites, etc)
+----------------
+Nathan,HeartHero
+Peerless
+Feaw
+Team SALVAGED
+ZoramineFae
+Black Mage
+DerTheVaporeon
+Glenwing
+Andy
+SD9K
+Jj09
+Temp
+RandomWizard
+Orihara_Saki
+HGS
+Alusq
+Mikey Seregon
+Marlon0024
+FaerieFruit
+flasuban
+AmBrosiac
+LaurentLacroix
+Aversa_X_A
+Arch
+Comaythanki
+Borsdeep
+Vividria
+MrGreen339
+Levin64
+Sme
+MegaCowsamMan
+JiroPaiPai
+Raymond
+Zeldacrafter
+BuskHusker
+Glacoe
+George Reds
+LordGlenn
+TopazLite
+GabrielKnight
+Roxannity 
+Wasdye
+XVI
+Zarg
+Ereshkigal
+Celice
+Lisandra Brave
+Melia
+Love Machine
+Endelphia
+SacredStones
+
+Mugs
+---------------------------------------------
+L'Arcade - ZessDynamite
+Uno - ZessDynamite  	
+Asthildr - BuskHusker	
+Caesar - Levin64 
+Nikitaka  - Ysor,LeoLink,Levin64,BuskHusker,HusbandoEmblem
+Askel - HusbandoEmblem
+Millie - Levin64
+Kyrene - BuskHusker
+Aji - HusbandoEmblem
+Kjellcynn - Claire45
+Jules - Smokeyguy77
+
+Styrr - LaurentLacroix
+Doyle - P33RL355
+???(r66) - JiroPaiPai,Raymond
+???(a112) - JiroPaiPai
+Isir - Zeldacrafter
+Zodiac - JiroPaiPai
+Rook - Roxannity
+Dizzy - JiroPaiPai,Ysor
+Rehk-Mara - monk-han
+Bailey - JiroPaiPai
+Elphidel mug - IS, Ghostblade913
+Dark Mage guy - P33RL355
+
+
+
+Vakr - Vividria, Serif(?)
+Calixte - Ambrosiac
+Veldora - BuskHusker
+Syrlach - Melia
+Allen - Cravat
+Bek - LaurentLacroix
+Magnus - P33RL355
+Rynveig - XVI
+Celia - XVI
+Luti - flasuban
+Khe-Mara - MegaCowsamMan
+Merchant guy - LaurentLacroix
+Domingo - Wasdye 
+
+Skill system contributors
+-----------------
+Skill contributors
+circleseverywhere
+Tequila
+Colorz
+Rossendale
+StanH
+Leonarth
+2WB
+Teraspark
+Darrman
+SD9k
+Kao
+blademaster
+Snakey1
+Zeta
+Kirb
+Sme
+Ganzap
+Mikey Seregon
+Vesly
+Dragz
+Jopettajah
+Other
+7743: various bugfixes
+RobertFPY, Pikmin1211, and Snakey1: Str/Mag Split Finalization
+Graphics
+Monkeybard, Black Mage
+Blaze: Stances
+vlak: Drives
+Pikmin1211: Miscellaneous
+2WB: Miscellaneous
+Someone: Taker, Hone, Oath, Rouse, Guts, Strong Con, Rally Chaos, Hoarders Bane, Shrewd Potential, Eternal Vanity
+Alice: Dancing/Heavy Blade, Dark Bargain, Soul Sap
+VelvetKitsune: Initiative
+Zaim: Indoor March
+Reds: Quick Riposte
+Dragz: Divinely Inspiring
+circleseverywhere: Skill Animations
+
+Code Stuff (Non-Skillsys Asm)
+----------------
+Battle crit threshold - DragzGigaExcalibur
+Fates EXP - Crazycolorz5
+MMB - ZaneAvernathy
+Anti-Triangle - Snakey1
+MurderStick - Zeta/Gilgamesh
+Minimug pallet fix - Huichelaar
+Droppable item icon - Mkol
+DSFE avoid - GratedShtick
+Escape flags - 7743
+ExtendWeaponDescBox - Vesly
+FE8-Fancy_Thief_Animations - Teq
+FE8-Text_Engine_Rework - Teq
+FE8-Walking Sounds Fix - Teq
+Group AI - Phantom Sentine
+ItemWTA - Sme
+Less Annoyng Fog - Leonarth
+battle_music_changer2 - NGMansion, 7743
+NegateDef - Vesly
+NosResire - Sme
+ReplaceWepsByDifficulty - Vesly
+SetStatus - Teq,Vesly
+Show_map_emotion - 7743, Kenpuku
+SupporReworkRework - Snakey1
+StanAI - (I wonder) StanH
+StatusExpansion - Sme
+StealWithFullInv - Vesly
+Limited Item stock - Contro
+Toggle 1rn - Pikmin1211
+
+
+Music (Self explaintory)
+-----------------
+Happy wars Season 1-2 Theme drewinator4
+Bowser's Inside Story - Showtime (Norikins)
+Castlevania - Stage 1 {A Reliable Chair}
+Earthbound - Buy Somethin Will Ya {Dolkar}
+FE2 - Alm Enemy Phase (hypergammaspaces)
+FE04 - Dance in the Skies {SurfingKyogre}
+FE04 - Eldigan the Lionheart {Scraiza}
+FE04 - From Enemy to Friend {Pandan}
+FE04 - Vs Arvis {SaXor the Nobody}
+FE9 - Clash (SaXor_the_Nobody)
+FE11 - Defense (Sme)
+Glory of Hercules 4 - Field 2 (Sme)
+Guilty Gear X - Millia Rage's Theme {MeatOfJustice}
+Kingdom Hearts 358-2 Days - Another Side (Battle Ver.) (Mycahel)
+Kingdom Hearts Chain of Memories - Namine (Mycahel)
+Kingdom Hearts Dream Drop Distance - Oscurita de'll ignoto (Mycahel)
+Kirby Return to Dream Land - CROWNED (RandomWizard)
+Kirby The Crystal Shards - 02 Battle (MrGreen3339)
+Kirby Triple Deluxe - Bouncing Boss Battle (RandomWizard)
+LoZ Ocarina of Time - Shop {Sme}
+Sonic Adventure 2 Battle - Dry Lagoon {A Reliable Chair}
+Super Mario 3D World - World Bowser {Sme} 
+Super Mario Bros. 3 - Airship Theme (MrGreen3339)
+Super Metroid - Lower Brinstar (MrGreen3339)
+Super Smash Bros. Melee - All-Star Rest Area (MrGreen3339)
+Tales Of Symphonia - Encouter With The Renegades (A_Reliable_Chair)
+Tales Of Symphonia - The Law Of Battle {A Reliable Chair}
+The Black Knight (Dethraxx)
+The Legend of Zelda Twilight Princess - Midna's Lament(MysteriousDancer)
+Unlimited SaGa - Battle Theme EX (SaXor the Nobody)
+Unstopable Destiny (Dethraxx)
+Yggdra Union We_ll Never Fight Alone - Aegina Sortie (SaXor_the_Nobody)
+Yggdra Union We_ll Never Fight Alone - Durant  Sortie (SaXor_the_Nobody)
+Yggdra Union We_ll Never Fight Alone - Gordon Sortie (SaXor_the_Nobody)
+Zelda II - Battle (pandan)
+FE04 - Beloved One {SurfingKyogre}
+FE05 - Base {RSflame}
+Naruto -Fooling Mode {A Reliable Chair}
+Grasp Fate  (Runa)
+FE13 - Duty (Ablaze) {Azula}
