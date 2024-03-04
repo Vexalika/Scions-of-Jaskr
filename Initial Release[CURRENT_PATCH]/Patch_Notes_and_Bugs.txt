@@ -32,3 +32,6 @@ Resisitance 	|[12 -> 8]
 
 
 Bugs----------------------------------------------
+Mercs at the end of CH1 had axes
+Myrmidon Res Underflow in Ch2
+Also removed text from CH3
