@@ -1,0 +1,64 @@
+System ----------------------------------------
+
+Base Mounted Aid is 35
+
+Chapters ----------------------------------------
+
+Prologue is now Casual on all dificulties
+
+Prologue objective text is clearer
+
+Prologue enemies spd -1
+
+Changes chapter 1 map theme
+Items -----------------------------------------
+
+
+
+
+Skills ----------------------------------------  
+
+
+Units ---------------------------------------    
+
+-[^] Askel - Buff
+Changed starting inventory
+Steel Axe, Iron Lance -> Iron Axe, Steel Lance
+
+Base stats increased
+Health 31 -> 33
+Strength 11 -> 12
+Speed 8 -> 9
+Defense 8 -> 9
+
+
+-[^] L'Arcade - Buff
+
+Increased base Axe rank
+E -> D
+
+Changed starting inventory
+Iron Axe -> Steel Axe
+
+
+-[^] Kjellcynn - Buff
+
+Added portait by claire45
+
+
+-[=] Millie - Shift
+Changed class from soldier to Lancer
+
+Misc  ---------------------------------------
+
+Changed Askel,Millie support bonuses
+
+C Support
+[0,2,10,10,0,25] -> [1,2,10,10,0,25]
+
+C+ Support
+[1,2,15,15,0,30] -> [2,3,15,15,0,30]
+
+
+Added a new class
+Lancer
