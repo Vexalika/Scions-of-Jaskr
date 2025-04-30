@@ -1,0 +1,66 @@
+System ----------------------------------------
+
+Magic, Magic Weapons, Consumables and PRFs now regain durability between chapters and no longer break
+
+Can now cycle through weapons by holding 'R' and moving left/right during battle preivew
+
+Snipers' Class skill is now BowRange+1
+
+Chapters --------------------------------------
+Chapter 1
+Changed Kyrene vendor reward from a Vulnerary to a Remedy
+
+Chapter 2
+Reduce thief clones skill 
+Gave Levin Sword thieves Certain Blow.
+Reduced Assassin boss' str
+Changed Assassin boss skill from [Silent Pride] to [Fortune]
+
+Chapter 3
+Removed Vulnerary from shop 
+Complete Internal Rehaul of Events Structure
+
+Chapter 4
+Adjusted enemy placements and levels
+	Gave Miasma Shamans TomeRange+1
+
+Items -----------------------------------------
+Adjusted the Durability/Price per Use of various Tomes,Staves(lol),Magic Swords/Bows,Consumables and PRFs to accouint for no longer breaking
+
+Weapons ranked C-A have had their WEXP increased to 2
+	> In order to help make getting ranks not suck later, may make B/A rank weapons 3 if needed
+Increased Steel Weapons WEXP to 2
+	> Gives steel weapons an actual advantage over killers
+
+-[=]Levin Sword
+	Hit 	[75 -> 85]
+	Crit	[0 -> 15]
+		Added Effect: Base Crit is Skill * 1.5
+-[=]Bolt Bringer
+	Hit 	[85 -> 90]
+	Crit	[0 -> 25]
+		Added Effect: Base Crit is Skill * 1.5
+		
+		>Killer magic swords, scary.
+		
+-[+] Franziska
+	New effect "+5 Def"
+	
+	>Franziska is already broken in the Prologue, preemptive buff so it doesnt fall off in Part 1.
+	
+-[+] Miasma
+	Bonus damage occurs after combat, regardless of who initiated
+	Increased debuff value on all stats from -3 to -5 
+	Can no longer crit
+	
+		>minor miasma buffs, makes P-4 harder.
+	
+Skills ----------------------------------------  
+
+Units ---------------------------------------   
+
+-[^]Uno - Buff
+	Changes starting inventory
+		[Iron Sword -> Iron Blade]
+
+Misc  ---------------------------------------
